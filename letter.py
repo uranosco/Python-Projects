@@ -1,0 +1,5 @@
+print ('Today: 1/27/2023')
+print ('Mood:  Alive')
+print ('Goal:  Employable Programmer')
+print ('Message: I am glad you didnt quit.')
+print ('🎉')
